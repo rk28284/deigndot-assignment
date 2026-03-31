@@ -1,6 +1,7 @@
 export const Insights = () => {
   const items =  ["Market Entry", "Operations", "Growth & Expansion"]
 
+  
   return (
       <section className="max-w-[1920px] mx-auto px-6 lg:px-20 py-24 grid lg:grid-cols-2 gap-20">
         <div className="flex gap-10">
