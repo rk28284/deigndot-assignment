@@ -18,8 +18,5 @@ A pixel-perfect, high-fidelity corporate landing page built from a professional 
 * **Hot Topics Ticker:** An interactive news grid with hover-state transitions.
 * **Dynamic Stats Grid:** A 2x2 grid displaying firm achievements and global reach.
 * **Insights Gallery:** A custom-weighted vertical image gallery using CSS Flexbox.
-
-
- ┣ assets/           # Project images and icons
  ┣ App.jsx           # Main page structure & logic
  ┗ main.jsx          # App entry point
