@@ -3,7 +3,7 @@
 A pixel-perfect, high-fidelity corporate landing page built from a professional Figma design. This project demonstrates advanced layout techniques using **React** and **Tailwind CSS**, focusing on fluid responsiveness from **320px to 1920px**.
 
 ## 🚀 Live Demo
-[Insert your Link Here (https://comforting-lily-d23014.netlify.app/)]
+[Insert your Link Here (https://verdant-paprenjak-430a33.netlify.app/)]
 
 ## 🛠️ Tech Stack
 * **Framework:** [React.js](https://reactjs.org/)
