@@ -11,14 +11,14 @@ export const News = () => {
   ];
   return (
       <section className="max-w-[1920px] mx-auto px-6 lg:px-20 py-12 flex flex-col lg:flex-row gap-12 border-b">
-        <div className="bg-[#FF8000] text-white px-6 py-3 text-xs font-black shrink-0 self-start lg:rounded-tr-2xl">
+        <div className="bg-[#FF8000] text-white px-6 py-3 text-xs font-black  ">
           HOT TOPICS
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {news.map((res, index) => (
-            <div key={index} className="group cursor-pointer border-t-2 border-slate-100 pt-4 hover:border-blue-600 transition-all">
-              <p className="text-[16px] font-semibold leading-snug group-hover:text-blue-700">{res}</p>
-              <ArrowRight size={16} className="mt-4 opacity-0 group-hover:opacity-100 transition-opacity" />
+            <div key={index} className="group  border-t-2 border-slate-100 pt-4">
+              <p className="text-[16px] font-semibold ">{res}</p>
+              <ArrowRight size={16} className="mt-4 " />
             </div>
           ))}
         </div>

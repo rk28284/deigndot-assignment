@@ -1,5 +1,4 @@
-import React from 'react'
-import { Search, ArrowRight, ChevronDown, Globe } from 'lucide-react';
+import {  ArrowRight,  } from 'lucide-react';
 
 
 export const Banner = () => {
@@ -14,7 +13,7 @@ export const Banner = () => {
           <p className="max-w-md text-[16px]  opacity-80 mb-10">
             By fostering inclusivity, encouraging growth, promoting collaboration, valuing diversity, supporting innovation, and building trust for shared success.
           </p>
-          <button className="bg-[#FF8000] hover:scale-105 transition-transform px-10 py-4 flex items-center gap-4 font-bold text-xs w-fit">
+          <button className="bg-[#FF8000] hover:scale-105  px-10 py-4 flex items-center gap-4 font-bold text-xs w-fit">
             <ArrowRight size={20} /> LETS CONNECT
           </button>
         </div>
